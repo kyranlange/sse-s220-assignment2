@@ -5,7 +5,7 @@ This contains the python code for Assignment 2 in Secure Software Engineering at
 To Run:
 
 ```bash
-source vent/bin/activate
+source venv/bin/activate
 jupyter-notebook
 ```
 
